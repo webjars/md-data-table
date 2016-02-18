@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>md-data-table</artifactId>
-    <version>0.9.11</version>
+    <version>0.9.12-SNAPSHOT</version>
     <name>Material Design Data Table</name>
     <description>WebJar for Material Design Data Table</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/md-data-table</url>
         <connection>scm:git:https://github.com/webjars/md-data-table.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/md-data-table.git</developerConnection>
-        <tag>md-data-table-0.9.11</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
